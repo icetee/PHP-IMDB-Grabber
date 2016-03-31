@@ -1,3 +1,12 @@
-cache/*.redir
+.AppleDouble
+.DS_Store
+.idea/
+.LSOverride
 cache/*.cache
+cache/*.fullcast
+cache/*.redir
+composer.phar
+Desktop.ini
 posters/*.jpg
+Thumbs.db
+vendor/
